@@ -1,7 +1,0 @@
-path: /content/drive/MyDrive/projet_deep_learning/dataset_yolo
-train: images/train
-val: images/val
-test: images/test
-
-nc: 5
-names: ['pomme', 'banane', 'kiwi', 'citron', 'mandarine']
